@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-**I'm Reshmi Rahul, a passionate student and aspiring web developer.**
+**I'm Reshmi Harikumar Lathakumari, a passionate student and aspiring web developer.**
 
 🔭 I’m currently a student at Humber College North Campus, diving deep into web development.  
 🌱 I recently completed a Ontario Graduate Certificate in Cloud Computing from Humber College.  
