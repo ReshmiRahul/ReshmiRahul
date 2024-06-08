@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**ReshmiRahul/ReshmiRahul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Reshmi Rahul, a passionate student and aspiring web developer.**
 
-Here are some ideas to get you started:
+🔭 I’m currently a student at Humber College North Campus, diving deep into web development.  
+🌱 I recently completed a Ontario Graduate Certificate in Cloud Computing from Humber College.  
+👯 I’m looking to collaborate on web development projects and innovative software solutions.  
+🤔 I’m looking for help with advanced JavaScript frameworks and cloud computing.  
+💬 Ask me about web development, cloud computing, or my journey in tech.  
+📫 How to reach me: [https://github.com/ReshmiRahul](mailto:reshmihl94@gmail.com)  
+😄 Pronouns: She/Her  
+⚡ Fun fact: I have a background in software engineering from India and love exploring new tech trends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Feel free to explore my repositories and connect with me!
