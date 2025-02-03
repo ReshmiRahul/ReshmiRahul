@@ -44,19 +44,19 @@ Developed a Post Office Management System using PHP.
 
 **Featured Projects**
 
-Toboggan Hills Mobile Application
+**Toboggan Hills Mobile Application :**
 A mobile app built using Flutter to locate toboggan hills in Canada with real-time location tracking.
 Technologies: Flutter, Dart, MongoDB, Google Maps API
 
-E-Waste Management System
+**E-Waste Management System :** 
 A full-stack web app for managing electronic waste with Docker and Kubernetes.
 Technologies: C#, Angular, Docker, Kubernetes, MySQL
 
-SkyCheck Weather Application
+**SkyCheck Weather Application:**
 A real-time weather app that allows users to check the weather for any location.
 Technologies: HTML, CSS, JavaScript, Docker
 
-Portfolio Website
+**Portfolio Website :**
 A personal portfolio to showcase my skills and projects.
 Technologies: React, Vite
 
