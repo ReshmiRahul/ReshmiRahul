@@ -1,9 +1,11 @@
 **About Me**
+
 Hi, I'm Reshmi H L - a passionate Full-Stack Developer with over four years of experience in designing and building high-performance web applications. I'm deeply committed to solving complex problems through innovative solutions, utilizing both front-end and back-end technologies.
 
 Currently, I’m pursuing a Graduate Certificate in Web Development at Humber College, where I'm building on my expertise in full-stack development and working on exciting projects in both academic and internship settings. I am also contributing to various AI-driven projects as part of my internship at Iter Innovandi, where I’m integrating cognitive solutions for various industries.
 
 **Technical Expertise**
+
 I have hands-on experience working with a variety of programming languages and technologies, which enables me to design and deliver end-to-end solutions. Below are some key tools and technologies I specialize in:
 
 Front-End: HTML5, CSS3, JavaScript, React.js, Angular.js, Vue.js, Bootstrap
