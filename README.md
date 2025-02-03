@@ -60,10 +60,9 @@ Portfolio Website
 A personal portfolio to showcase my skills and projects.
 Technologies: React, Vite
 
-**Contact Me**
+### **Contact Me**
 Feel free to reach out via:
-
-Email: reshmihl94@gmail.com
-LinkedIn: Reshmi H L
-GitHub: ReshmiRahul
+- **Email**: [reshmihl94@gmail.com](mailto:reshmihl94@gmail.com)
+- **LinkedIn**: [Reshmi H L](https://www.linkedin.com/in/reshmi-h-l-811845249)
+- **GitHub**: [ReshmiRahul](https://github.com/ReshmiRahul)
 
