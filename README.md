@@ -20,14 +20,17 @@ Other: REST APIs, Microservices, Agile methodologies
 
 **Full Stack Developer Intern | Iter Innovandi
 Dec 2024 - Present**
+
 As an intern at Iter Innovandi, I work on AI-driven projects and focus on both front-end and back-end integration, helping to develop and optimize web applications.
 
 **Software Engineer | NeST Digital
 Aug 2022 - Aug 2023**
+
 At NeST Digital, I’ve contributed to developing high-performance solutions such as the UAEIPP System, enabling 24/7 instant payment services in the UAE. I've been involved in building and maintaining scalable microservices architecture using .NET Core and improving system performance by reducing downtime by 40%.
 
 **Software Engineer | Singularis Software Technologies
 Jul 2019 – Aug 2022**
+
 At Singularis, I was responsible for developing full-stack solutions and designing user-friendly interfaces with Angular/Vue.js and back-end services with Python.
 
 **Education**
